@@ -124,7 +124,12 @@ The dashboard focuses on the following KPIs:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](Dashboard/Dashboard_Screenshot.png)
+
+**Time Series**
+![Dashboard](Dashboard/2.png)
+
+**Details Analysis**
+![Dashboard](Dashboard/3.png)
 
 ---
 
